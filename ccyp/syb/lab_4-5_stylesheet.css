@@ -2,7 +2,7 @@ rset "utf-8";
 
 body{
 	font-family: Osaka, 'MS Pゴシック', sans-serif; 
-	color: black;
+	color: #0099FF;
 	font-size: 10pt;
-	background: white;
+	background: #CCCCCC;
 }
