@@ -4,6 +4,8 @@
 
 body {
       margin:10px;
+
+      
 	 } 
 
 p {
@@ -14,13 +16,14 @@ p {
    }
 
 
+
 h2 {
 	margin-top: 9px; 
 	font-weight: bold; 
 	font-size: 120%;
 	margin-bottom: 10px; 
 	font-family: Osaka, 'ＭＳ Ｐゴシック', sans-serif;
-	color: purple;
+	color: purple
     }
 
 h3 {
@@ -29,9 +32,8 @@ h3 {
 	font-size: 100%;
 	margin-bottom: 10px; 
 	font-family: Osaka, 'ＭＳ Ｐゴシック', sans-serif;
-	color: purple;
+	color: purple
     }
-
 
 
  a {
@@ -44,20 +46,23 @@ h3 {
 			width: 600px;
 			border: 0px;
 			padding: 0px;
+
 		}
 
 #banner {
 			padding: 0;
 			margin-bottom: 0;
 			background-color: #fff;
+
 		}
 		
 #head  {
 		margin:0px;
-        padding:0px;
+	        padding:0px;
 		border:0px;
 		height:62px;
 		background: #fff url(sybheaders_01.jpg) no-repeat left;
+
 		}
 		
 #navbar {
@@ -65,26 +70,28 @@ h3 {
 		padding:0px;
 		border:0px;
 		height:22px;
+
 		}
 		
 #subnav {margin:0px;
 		 padding:0px;
 		 border:0px;
-		 height:16px;}
+		 height:16px;
+
+                 }
 
 #content {
 			padding: 0;
+			margin-left: 165px;
 			background-color: #fff;
-                        float: left;
-                        width: 435px;
-                        height: 622px;
+	background: #fff url(background.jpg) repeat left;
 		}
 
 #sidebar {
 			float: left;
 			width: 165px;
 			background: #fc3 url(navbg_04.gif) repeat-y top right;
-			height: 622px;
+			height: 632px;
 		}
 
 #footer {
